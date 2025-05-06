@@ -1,4 +1,4 @@
-học cách tạo file markdown
+học cách tạo file markdown ( BASIC )
 
 ## hoc lan 1
 __ tieu de in dam 1__
