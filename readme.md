@@ -84,3 +84,32 @@ ___
     viverra nec, fringilla in, laoreet vitae, risus.
 *   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
     Suspendisse id sem consectetuer libero luctus adipiscing.
+
+1986\. What a great season.
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
+
+See my [About](/about/) page for details. 
+
+[foo]: http://example.com/  "Optional Title Here"
+[foo]: http://example.com/  'Optional Title Here'
+[foo]: http://example.com/  (Optional Title Here)
+
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
+
+un*frigging*believable
+
+un*frigging*believable
+
+A single backtick in a code span: `` ` ``
+
+A backtick-delimited string in a code span: `` `foo` ``
