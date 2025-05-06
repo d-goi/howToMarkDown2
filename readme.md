@@ -95,6 +95,9 @@ Here is an example of AppleScript:
 
 See my [About](/about/) page for details. 
 
+Day la 1 noi dung voi chu thich [^1].
+[^1]: day la noi dung can chu thich
+
 [foo]: http://example.com/  "Optional Title Here"
 [foo]: http://example.com/  'Optional Title Here'
 [foo]: http://example.com/  (Optional Title Here)
