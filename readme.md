@@ -38,16 +38,4 @@ _gach nghien_
 > dau la doan trich dan
 > no co the keo dai tren nhieu dong
 
-`resultWorkerErr := make(chan error)
-defer close(resultWorkerErr)
-go func() {
-	defer cancel()
-	resultWorkerErr <- b.resultWorker(ctx)
-}()
-
-err := b.worker(ctx)
-cancel()
-if err == nil {
-	return <-resultWorkerErr
-}
-return multierror.Append(err, <-resultWorkerErr)`
+System.out.println("hello world");`
