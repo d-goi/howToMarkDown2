@@ -30,6 +30,9 @@ _gach nghien_
 xemm day [^k]
 [^k]: xem toi day roi
 
+noi dung lan 3[^check_k]
+[^check_k]: lan thu nhat
+
 ## lien ket
 [Youtube](https://www.youtube.com/?app=desktop&hl=vi)
 
