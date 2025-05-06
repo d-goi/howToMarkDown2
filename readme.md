@@ -38,4 +38,11 @@ _gach nghien_
 > dau la doan trich dan
 > no co the keo dai tren nhieu dong
 
-System.out.println("hello world");`
+`print('xin chao)`
+
+```
+def hello():
+    print("Xin chào!")
+
+hello()
+```
