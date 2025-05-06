@@ -29,4 +29,4 @@ _gach nghien_
 [Youtube](https://www.youtube.com/?app=desktop&hl=vi)
 
 ## image
-![Image dog](https://www.google.com/imgres?q=image%20dog&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1108099%2Fpexels-photo-1108099.jpeg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdog%2F&docid=NzcFCDirz3vE7M&tbnid=rLyV376IoQ8n5M&vet=12ahUKEwjIn6LH4o2NAxX7zjgGHWIeCn4QM3oECB4QAA..i&w=5184&h=3888&hcb=2&ved=2ahUKEwjIn6LH4o2NAxX7zjgGHWIeCn4QM3oECB4QAA)
+![Image google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
