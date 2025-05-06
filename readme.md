@@ -9,6 +9,7 @@ __KHONG THICH CHU NAO__
 __in dam__
 ## hello
 ~~ gach ngnang ~~
+~~gach ngang lan n~~
 
 _gach nghien_
 
@@ -20,6 +21,7 @@ _gach nghien_
 
 - muc1
 - uc 2
+- muc 3
 
 1.  so 1
 2. so 2
@@ -30,3 +32,22 @@ _gach nghien_
 
 ## image
 ![Image google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+> dau la doan trich dan
+> no co the keo dai tren nhieu dong
+> dau la doan trich dan
+> no co the keo dai tren nhieu dong
+
+`resultWorkerErr := make(chan error)
+defer close(resultWorkerErr)
+go func() {
+	defer cancel()
+	resultWorkerErr <- b.resultWorker(ctx)
+}()
+
+err := b.worker(ctx)
+cancel()
+if err == nil {
+	return <-resultWorkerErr
+}
+return multierror.Append(err, <-resultWorkerErr)`
