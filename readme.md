@@ -27,6 +27,9 @@ _gach nghien_
 2. so 2
 3. so 3
 
+xemm day [^kich xuong duoi]
+[^kich xuong duoi]: xem toi day roi
+
 ## lien ket
 [Youtube](https://www.youtube.com/?app=desktop&hl=vi)
 
