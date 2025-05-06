@@ -115,6 +115,12 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
+I get 10 times more traffic from [Google] than from [Yahoo] or [MSN].
+
+  [Google]: http://google.com/        "Google"
+  [Yahoo]: http://search.yahoo.com/  "Yahoo Search"
+  [MSN]: http://search.msn.com/    "MSN Search"
+
 un*frigging*believable
 
 un*frigging*believable
