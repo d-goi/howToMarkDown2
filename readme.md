@@ -64,5 +64,5 @@ ___
 ***
 | header 1| header 2| header 3|
 | --------| --------|
-| Dữ liệu 1 | Dữ liệu 2 |
-| Dữ liệu 3 | Dữ liệu 4 |
+| Dữ liệu | Dữ liệu |
+| Dữ liệu | Dữ liệu |
